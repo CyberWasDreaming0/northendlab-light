@@ -16,10 +16,10 @@ weight = 3
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
-author = "Themefisher"
+author = "Fortuna Data"
 contact_form_action = "#"
 copyright = "&copy; 2020 [Fortuna Data](https://fortunadata.com) All Rights Reserved"
-description = "This is meta description"
+description = "your leading independent provider of IT solutions. With over 25 years of experience, we specialise in providing the best hardware and software solutions to meet all your data storage needs. "
 google_tag_manager = ""
 home = "Home"
 logo = "images/logo.svg"
