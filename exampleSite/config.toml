@@ -25,15 +25,15 @@ home = "Home"
 logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-image = "images/banner/illustration.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+image = "images/banner/illustration.png"
+title = "FortunaData's Blogs, <br> 25 years of expertise in IT solutions provider. "
 [params.cookies]
 enable = true
 expire_days = 2
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = true
-image = "images/hugo-muscot.svg"
+image = "images/"
 title = "Get the best hugo templates"
 [params.cta.button]
 enable = true
