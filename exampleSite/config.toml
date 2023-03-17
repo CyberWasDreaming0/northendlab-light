@@ -5,25 +5,20 @@ paginate = "5"
 summaryLength = "10"
 theme = "northendlab-light"
 title = "Northendlab | Blog Template"
-[[menu.footer]]
-URL = "contact/"
-name = "Contact"
-weight = 1
-[[menu.main]]
-URL = "https://gethugothemes.com/products/northendlab/"
-name = "About us"
-url = "https://fortunadata.cyberdream.cf/about-us.html"
+[menu.footer]
+URL = "tools/"
+name = "Blogs"
 weight = 2
-[[menu.main]]
-URL = "contact/"
-name = "Contact"
-weight = 1
+[menu.main]
+URL = "tools/"
+name = "Blogs"
+weight = 3
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
+copyright = "&copy; 2020 [Fortuna Data](https://fortunadata.com) All Rights Reserved"
 description = "This is meta description"
 google_tag_manager = ""
 home = "Home"
