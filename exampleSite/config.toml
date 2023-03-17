@@ -31,10 +31,10 @@ title = "FortunaData's Blogs, <br> 25 years of expertise in IT solutions provide
 enable = true
 expire_days = 2
 [params.cta]
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
-enable = true
+description = ""
+enable = false
 image = "images/"
-title = "Get the best hugo templates"
+title = ""
 [params.cta.button]
 enable = true
 label = "Visit Here"
